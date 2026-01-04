@@ -88,3 +88,24 @@ Swagger UI showing the available endpoints: `/ask`, `/validate`, `/schedule`.
 
 Request/response schemas used by the API.
 
+### Testing phase (Swagger UI)
+#### Debug: `/debug/chroma`
+![Debug chroma - parameters](Screenshots/testing/debug-chroma-params.png)
+
+![Debug chroma - response](Screenshots/testing/debug-chroma-response.png)
+
+#### Chat: `/ask`
+![Ask - request](Screenshots/testing/ask-request.png)
+
+![Ask - response](Screenshots/testing/ask-response.png)
+
+#### Dosage validation: `/validate`
+![Validate - request](Screenshots/testing/validate-request.png)
+
+![Validate - response](Screenshots/testing/validate-response.png)
+
+#### Schedule generator: `/schedule`
+![Schedule - request](Screenshots/testing/schedule-request.png)
+
+![Schedule - response](Screenshots/testing/schedule-response.png)
+
